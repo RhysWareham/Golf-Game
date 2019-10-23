@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: f7b31ebd999c8174a9534f2589c7fb3d
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Golf___Tutorial_Level:Golf___Tutorial_Level:pCube4
+    100002: Golf___Tutorial_Level:Golf___Tutorial_Level:transform1
+    100004: Golf___Tutorial_Level:Golf___Tutorial_Level:transform2
+    100006: Golf___Tutorial_Level:pCube1
+    100008: Golf___Tutorial_Level:pCube2
+    100010: Golf___Tutorial_Level:pCube3
+    100012: Golf___Tutorial_Level:pCube4
+    100014: Golf___Tutorial_Level:pCube5
+    100016: Golf___Tutorial_Level:pCylinder1
+    100018: Golf___Tutorial_Level:pCylinder2
+    100020: Golf___Tutorial_Level:pCylinder3
+    100022: Golf___Tutorial_Level:pCylinder4
+    100024: Golf___Tutorial_Level:pCylinder5
+    100026: Golf___Tutorial_Level:transform1
+    100028: Golf___Tutorial_Level:transform2
+    100030: Golf___Tutorial_Level:transform3
+    100032: Golf___Tutorial_Level:transform4
+    100034: Golf___Tutorial_Level:transform5
+    100036: Golf___Tutorial_Level:transform6
+    100038: //RootNode
+    400000: Golf___Tutorial_Level:Golf___Tutorial_Level:pCube4
+    400002: Golf___Tutorial_Level:Golf___Tutorial_Level:transform1
+    400004: Golf___Tutorial_Level:Golf___Tutorial_Level:transform2
+    400006: Golf___Tutorial_Level:pCube1
+    400008: Golf___Tutorial_Level:pCube2
+    400010: Golf___Tutorial_Level:pCube3
+    400012: Golf___Tutorial_Level:pCube4
+    400014: Golf___Tutorial_Level:pCube5
+    400016: Golf___Tutorial_Level:pCylinder1
+    400018: Golf___Tutorial_Level:pCylinder2
+    400020: Golf___Tutorial_Level:pCylinder3
+    400022: Golf___Tutorial_Level:pCylinder4
+    400024: Golf___Tutorial_Level:pCylinder5
+    400026: Golf___Tutorial_Level:transform1
+    400028: Golf___Tutorial_Level:transform2
+    400030: Golf___Tutorial_Level:transform3
+    400032: Golf___Tutorial_Level:transform4
+    400034: Golf___Tutorial_Level:transform5
+    400036: Golf___Tutorial_Level:transform6
+    400038: //RootNode
+    2100000: Golf___Level_1_lambert2
+    2100002: Golf___Tutorial_Level_lambert2
+    2300000: Golf___Tutorial_Level:Golf___Tutorial_Level:pCube4
+    2300002: Golf___Tutorial_Level:pCube5
+    2300004: Golf___Tutorial_Level:pCylinder5
+    3300000: Golf___Tutorial_Level:Golf___Tutorial_Level:pCube4
+    3300002: Golf___Tutorial_Level:pCube5
+    3300004: Golf___Tutorial_Level:pCylinder5
+    4300000: Golf___Tutorial_Level:Golf___Tutorial_Level:pCube4
+    4300002: Golf___Tutorial_Level:pCylinder5
+    4300004: Golf___Tutorial_Level:pCube5
+    6400000: Golf___Tutorial_Level:Golf___Tutorial_Level:pCube4
+    6400002: Golf___Tutorial_Level:pCube5
+    6400004: Golf___Tutorial_Level:pCylinder5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
